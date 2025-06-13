@@ -1,4 +1,4 @@
-package fed.in.consumer.service.dto;
+package fed.in.consumer.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

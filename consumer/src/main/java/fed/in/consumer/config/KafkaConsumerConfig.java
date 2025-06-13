@@ -1,7 +1,7 @@
 package fed.in.consumer.config;
 
 
-import fed.in.consumer.service.dto.UserDTO;
+import fed.in.consumer.dto.UserDTO;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;
 import org.springframework.context.annotation.Bean;

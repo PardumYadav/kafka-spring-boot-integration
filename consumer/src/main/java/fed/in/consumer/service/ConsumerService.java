@@ -1,6 +1,6 @@
 package fed.in.consumer.service;
 
-import fed.in.consumer.service.dto.UserDTO;
+import fed.in.consumer.dto.UserDTO;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;
 
